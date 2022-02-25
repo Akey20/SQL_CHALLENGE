@@ -1,5 +1,7 @@
 # SQL_CHALLENGE
+
 sql hw feb 2022
+
 ![image](https://user-images.githubusercontent.com/94247881/155751051-de4cdbb7-7268-4613-87ff-c46798141efe.png)
 
 
