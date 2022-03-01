@@ -1,4 +1,5 @@
 # SQL_CHALLENGE
+******see folder queries for sql***
 
 sql hw feb 2022
 
